@@ -1,15 +1,25 @@
 # Readme
 
-This dataset was created for a course at the iSchool at the University of Washington in the spring of 2021. It is a dataset describing library usage based on three metrics for all 14 pubilc library branches within the East Baton Rouge Parish public library system for the year 2020. The metrics are gate count, computer usage, and circulation. These data have been curated from open data released by East Baton Rouge Parish public libraries, which can be found here: https://catalog.data.gov/dataset/ebrp-library-circulation-statistics, https://catalog.data.gov/dataset/ebrp-library-gate-counts, https://catalog.data.gov/dataset/ebrp-library-computer-usage-stats. The intended audience is municipal and library policymakers. It is freely available to the public and the dataset is available .csv format.
+This dataset was created for a course at the iSchool at the University of Washington in the spring of 2021. It is a dataset describing library usage based on three metrics for all 14 pubilc library branches within the East Baton Rouge Parish public library system for the year 2020. The metrics are gate count, computer usage, and circulation. The intended audience is municipal and library policymakers. It is freely available to the public and the dataset is available .csv format.
 
 ## Table of Contents
 
+- [Naming](#Naming)
+- [Normalization](#Normalization)
 - [Data Dictionary](#datadictionary)
 - [Metadata](#metadata)
 - [Security](#security)
 - [Contact](#contact)
 
+## Naming
 
+The naming convention should be as follows: LibrarySystem_Year_Description_Of_Data
+
+For example, another dataset following this convention might be: EBRP_2021_Circulation_Stats
+
+## Normalization
+
+These data have been curated from open data released by East Baton Rouge Parish public libraries, which can be found here: https://catalog.data.gov/dataset/ebrp-library-circulation-statistics, https://catalog.data.gov/dataset/ebrp-library-gate-counts, https://catalog.data.gov/dataset/ebrp-library-computer-usage-stats. Monthly usage data from these statistics were summed to create yearly information about each library's usage throughout the year 2020. It is designed to be a quick snapshot of each library's metrics in 2020.
 
 ## Data Dictionary
 
