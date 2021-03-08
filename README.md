@@ -19,7 +19,7 @@ For example, another dataset following this convention might be: EBRP_2021_Circu
 
 ## Normalization
 
-These data have been curated from open data released by East Baton Rouge Parish public libraries, which can be found here: https://catalog.data.gov/dataset/ebrp-library-circulation-statistics, https://catalog.data.gov/dataset/ebrp-library-gate-counts, https://catalog.data.gov/dataset/ebrp-library-computer-usage-stats. Monthly usage data from these statistics were summed to create yearly information about each library's usage throughout the year 2020. It is designed to be a quick snapshot of each library's metrics in 2020.
+These data have been curated from open data released by East Baton Rouge Parish public libraries, which can be found here: https://catalog.data.gov/dataset/ebrp-library-circulation-statistics, https://catalog.data.gov/dataset/ebrp-library-gate-counts, https://catalog.data.gov/dataset/ebrp-library-computer-usage-stats. Monthly usage data from these statistics were summed to create yearly information about each library's usage throughout the year 2020. Not all months were entered concurrently in the original datasets and required the interested party to scroll through the full data to find a particular month. Compiling monthly data into yearly data is designed to be a quick snapshot of each library's metrics in 2020.
 
 ## Data Dictionary
 
