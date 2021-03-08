@@ -27,9 +27,9 @@ Schema Used: Dublin Core--output as XML (with assistance from https://nsteffel.g
 
 >
 
-xmlns:dc="http://purl.org/dc/elements/1.1/">
-<dc:title>EBRP 2020 Lib Stats</dc:title>
-<dc:creator>Ian Reinl</dc:creator>
+<<xmlns:dc="http://purl.org/dc/elements/1.1/">
+<<dc:title>EBRP 2020 Lib Stats</dc:title>
+<<dc:creator>Ian Reinl</dc:creator>
 <dc:creator>https://www.linkedin.com/in/ireinl/</dc:creator>
 <dc:subject>East Baton Rouge Parish public library</dc:subject>
 <dc:description>This is a dataset describing library usage based on three metrics for all 14 pubilc library branches within the East Baton Rouge Parish public library system for the year 2020. The metrics are gate count, computer usage, and circulation.</dc:description>
