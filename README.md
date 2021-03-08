@@ -25,7 +25,7 @@ This dataset was created for a course at the iSchool at the University of Washin
 ## Metadata
 Schema Used: Dublin Core--output as XML (with assistance from https://nsteffel.github.io/dublin_core_generator/generator_nq.html#format)
 
-'''
+...
 <<xmlns:dc="http://purl.org/dc/elements/1.1/">
 <<dc:title>EBRP 2020 Lib Stats</dc:title>
 <<dc:creator>>Ian Reinl</dc:creator>
@@ -44,7 +44,7 @@ Schema Used: Dublin Core--output as XML (with assistance from https://nsteffel.g
 <dc:language>en</dc:language>
 <dc:coverage>http://vocab.getty.edu/page/tgn/2000870</dc:coverage>
 <dc:rights>https://unlicense.org/</dc:rights>
-'''
+...
 
 
 ## Security
