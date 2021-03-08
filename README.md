@@ -1,6 +1,6 @@
 # Readme
 
-This dataset was created for a course at the iSchool at the University of Washington in the spring of 2021. is a dataset describing library usage based on three metrics for all 14 pubilc library branches within the East Baton Rouge Parish public library system for the year 2020. The metrics are gate count, computer usage, and circulation. The intended audience is municipal policymakers. It is freely available to the public. The dataset is available .csv format. 
+This dataset was created for a course at the iSchool at the University of Washington in the spring of 2021. It is a dataset describing library usage based on three metrics for all 14 pubilc library branches within the East Baton Rouge Parish public library system for the year 2020. The metrics are gate count, computer usage, and circulation. These data have been curated from open data released by East Baton Rouge Parish public libraries, which can be found here: https://catalog.data.gov/dataset/ebrp-library-circulation-statistics, https://catalog.data.gov/dataset/ebrp-library-gate-counts, https://catalog.data.gov/dataset/ebrp-library-computer-usage-stats. The intended audience is municipal policymakers. It is freely available to the public and the dataset is available .csv format.
 
 ## Table of Contents
 
@@ -16,10 +16,10 @@ This dataset was created for a course at the iSchool at the University of Washin
 
 | **Variable** | **Variable Name** | **Measurement Unit** | **Allowed Values** | **Definition** |
 | --- | --- | --- | --- | --- |
-| **LIBRARY NAME** | Name of Library | String | East Baton Rouge Parish Library Names | Name of the library branch |
-| **GATE COUNT** | Library Gate Count | Numerical | Integers greater than 0 | Count of people entering the library branch |
+| **LIBRARY_NAME** | Name of Library | String | East Baton Rouge Parish Library Names | Name of the library branch |
+| **GATE_COUNT** | Library Gate Count | Numerical | Integers greater than 0 | Count of people entering the library branch |
 | **CIRCULATION** | Materials Circulation | Numerical | Integers greater than 0 | Count of items circulated by the library branch |
-| **COMPUTER USAGE** | Computer Usage | Numerical | Integers greater than 0 | Count of computer usage at the library branch |
+| **COMPUTER_USAGE** | Computer Usage | Numerical | Integers greater than 0 | Count of computer usage at the library branch |
 
 
 ## Metadata
