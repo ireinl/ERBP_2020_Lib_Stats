@@ -17,7 +17,7 @@ This dataset was created for a course at the iSchool at the University of Washin
 | **Variable** | **Variable Name** | **Measurement Unit** | **Allowed Values** | **Definition** |
 | --- | --- | --- | --- | --- |
 | **LIBRARY NAME** | Name of Library | String | East Baton Rouge Parish Library Names | Name of the library branch |
-| **GATECOUNT** | Library Gate Count | Numerical | Integers greater than 0 | Count of people entering the library branch |
+| **GATE COUNT** | Library Gate Count | Numerical | Integers greater than 0 | Count of people entering the library branch |
 | **CIRCULATION** | Materials Circulation | Numerical | Integers greater than 0 | Count of items circulated by the library branch |
 | **COMPUTER USAGE** | Computer Usage | Numerical | Integers greater than 0 | Count of computer usage at the library branch |
 
