@@ -27,7 +27,7 @@ Schema Used: Dublin Core--output as XML (with assistance from https://nsteffel.g
 
 >
 
-<<xmlns:dc="http://purl.org/dc/elements/1.1/">
+'<<xmlns:dc="http://purl.org/dc/elements/1.1/">
 <<dc:title>EBRP 2020 Lib Stats</dc:title>
 <<dc:creator>>Ian Reinl</dc:creator>
 <dc:creator>>https://www.linkedin.com/in/ireinl/</dc:creator>
@@ -44,7 +44,7 @@ Schema Used: Dublin Core--output as XML (with assistance from https://nsteffel.g
 <dc:source>https://catalog.data.gov/dataset/ebrp-library-computer-usage-stats</dc:source>
 <dc:language>en</dc:language>
 <dc:coverage>http://vocab.getty.edu/page/tgn/2000870</dc:coverage>
-<dc:rights>https://unlicense.org/</dc:rights>
+<dc:rights>https://unlicense.org/</dc:rights>'
 
 
 ## Security
